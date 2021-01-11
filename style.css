@@ -1,0 +1,41 @@
+html{
+    background-color: tomato;
+}
+
+h1.centro{
+    text-align: center;
+    background-color: orange;
+}
+hr.azul{
+    border-width: 5px;
+    color: blue;
+}
+
+img.imagen1{
+    width: 190px;
+    height: 190px;
+    float: left;
+}
+img.derecha{
+     float: right;
+}
+
+
+hr.rojo{
+    border-width: 5px;
+    color:red;
+}
+p.azul{
+    color: blue;
+background-color: white;
+}
+p.rojo{
+    color: red;
+    background-color: lightskyblueP;
+}
+span{
+    background-color: yellow;
+}
+footer{
+    background-color: tomato;
+}
